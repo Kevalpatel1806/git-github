@@ -1,0 +1,14 @@
+git config --global user.name "Kevalpatel1806"
+git config --global user.email "kp814140@gmail.com"
+
+git config --global color.ui auto
+
+
+Mandatory Commands:
+>> git init
+>> git remote add origin httpS://github.com/Kevalpatel1806/git-github.git
+
+git pull origin main
+git status
+
+git add
