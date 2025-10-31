@@ -12,3 +12,10 @@ git pull origin main
 git status
 
 git add
+git commit origin main
+git status
+git push
+
+create a new branch
+
+git checkout -b "day1"
